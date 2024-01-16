@@ -172,6 +172,21 @@ nav h1{
     padding-left: 300px;
     padding-right: 300px;
 }
+.foot{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    align-items: center;
+    text-align: center;
+}
+.foot img{
+    height: 40px;
+}
+.believe{
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
 
 
 
